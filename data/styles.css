@@ -7,55 +7,105 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
+._图片_ {
 }
-.heading_1 {
+._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-.heading_2 {
+._二级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
-.heading_3 {
+._三级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
-.heading_4 {
+._四级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
-.heading_5 {
+._五级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
-.heading_6 {
+._六级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
   text-align:left;
 }
+._文本段落 {
+  text-align:left;
+}
+._流程形状 {
+}
+._连接线 {
+}
+.box_3 {
+}
+._默认样式 {
+}
+._跳转-移入 {
+  color:#1ABC9C;
+}
+.icon {
+}
+.line {
+}
+.box_1 {
+}
+.box_2 {
+}
 .label {
   font-size:14px;
   text-align:left;
 }
-.paragraph {
+._图片 {
+  color:#000000;
+}
+._表格 {
+}
+.text_field {
+  color:#000000;
   text-align:left;
 }
-.connector {
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+.flow_shape {
+}
+.image {
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+._图片1 {
 }
